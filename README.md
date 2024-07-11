@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @maazahmed8355
+- 👋 Hi, I’m @maazahmedhussain
 - 👀 I’m interested in web development, AI, open-source,
 - 🌱 I’m currently learning Html,Css, React.js, JavaScript, MongoDB
 - 💞️ I’m looking to collaborate on open-so.urce projects, web apps
